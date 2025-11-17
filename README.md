@@ -47,28 +47,35 @@
   <code><img title="Spring Boot" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
   <code><img title="Angular" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
   <code><img title="Next.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code> -->
-[![My Skills](https://skillicons.dev/icons?i=java,springboot,angular,next.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,nextjs)](https://skillicons.dev)
 
   <br/>
 
-  <!-- Tools -->
+  <!-- Tools
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-  <code><img title="Postman" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+  <code><img title="Postman" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>  -->
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman)](https://skillicons.dev)
 
   <br/>
 
-  <!-- Databases -->
+  <!-- Databases 
   <code><img title="SQLite" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code> -->
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mongodb)](https://skillicons.dev)
+  
 
   <br/>
 
-  <!-- Other Technologies -->
+  <!-- Other Technologies
   <code><img title="GraphQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"></code>
   <code><img title="WebSocket" height="25" src="https://cdn.simpleicons.org/websocket/fff"></code>
   <code><img title="REST API" height="25" src="https://cdn.simpleicons.org/api/61dafb"></code>
+[![My Skills](https://skillicons.dev/icons?i=graphql,postgres,mongodb)](https://skillicons.dev) -->
+  
 
 </p>
 
