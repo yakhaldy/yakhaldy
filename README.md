@@ -43,10 +43,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,rust,golang,c)](https://skillicons.dev)
   <br/>
 
-  <!-- Frameworks -->
+  <!-- Frameworks 
   <code><img title="Spring Boot" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
   <code><img title="Angular" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
-  <code><img title="Next.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+  <code><img title="Next.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code> -->
+[![My Skills](https://skillicons.dev/icons?i=java,springboot,angular,next.js)](https://skillicons.dev)
 
   <br/>
 
