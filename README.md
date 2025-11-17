@@ -34,13 +34,13 @@
 
 <p align="center">
 
-  <!-- Languages -->
+  <!-- Languages
   <code><img title="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
   <code><img title="Golang" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code>
   <code><img title="Rust" height="25" src="[https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg)"></code>
   <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-  <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>  -->
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,rust,golang,c)](https://skillicons.dev)
   <br/>
 
   <!-- Frameworks -->
