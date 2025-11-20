@@ -103,10 +103,7 @@
 </div>
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakhaldy&show_icons=true&count_private=true&include_all_commits=true&theme=react" width="100%">
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakhaldy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"> </p>
 
 
 <hr/>
